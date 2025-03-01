@@ -35,7 +35,7 @@ Price change percentage: 0.000000
 
 - Create a `.env` file and add your Telegram bot token:
   ```sh
-  TELEGRAM_BOT_TOKEN=your_token_here
+  TOKEN=your_token_here
   ```
 - Or manually set the token in your code.
 
