@@ -9,7 +9,7 @@ const (
 	chartRemoved        = "chart <b>%s</b> successfully removed"
 	chartAlreadyRemoved = "chart <b>%s</b> already removed"
 	helpMsg             = "unknown command, please type <b>/start</b> to start use bot"
-	chartMsg            = "Symbol: <b>%s</b> \ncurrent price: %f \nprice change: %f \n price change percentage %f\n\n"
+	chartMsg            = "Symbol: <b>%s</b> \ncurrent price: %f \nprice change: %f \nprice change percentage %f\n\n"
 )
 
 const (
