@@ -1,0 +1,7 @@
+
+.env
+.dappfile.render.yaml
+# User-specific stuff
+.idea
+.idea_modules/
+.devcontainer
