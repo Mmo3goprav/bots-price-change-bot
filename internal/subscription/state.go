@@ -3,7 +3,7 @@ package subscription
 type State int
 
 const (
-	StateNew                    = iota
+	StateNew              State = iota
 	StateAddChart         State = iota
 	StateAwaitAddChart    State = iota
 	StateRemoveChart      State = iota
